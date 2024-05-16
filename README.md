@@ -10,4 +10,4 @@ I was born ⭐ in Kharkiv, Ukraine, and now I live in Ragusa, Sicily. I grew up 
 *   ✉️  You can contact me at [alessandrofilatov1@gmail.com](mailto:alessandrofilatov1@gmail.com)
 *   🤝  I'm open to collaborating on Cool Projects
 *   
-*  [![My Skills](https://skillicons.dev/icons?i=java,js,jquery,ts,html,css,react,angular,spring,hibernate,mysql,mongodb,bootstrap,git,vscode,eclipse,postman)](https://skillicons.dev)
+*  [My Skills](https://skillicons.dev/icons?i=java,js,jquery,ts,html,css,react,angular,spring,hibernate,mysql,mongodb,bootstrap,git,vscode,eclipse,postman)](https://skillicons.dev)
